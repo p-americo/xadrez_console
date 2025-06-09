@@ -13,19 +13,20 @@ Exemplo: c2 (Origem) -> c4 (Destino)
 
 1° - Selecionar peça de origem, (c2)
 
-![{D9543550-B657-4919-A523-7D68B4BF8BE6}](https://github.com/user-attachments/assets/4eb88ec2-5abf-4208-a863-f5d270d748e1)
+![{275E41E2-D87C-4F21-AC2C-988575544996}](https://github.com/user-attachments/assets/83eb1283-8cd0-450d-b6bf-6929e40bd5ae)
 
 2° - Visualização auxiliar de movimentos possíveis da peça
 
-![{BD4B9731-171E-4808-B58F-228E6F1F66A2}](https://github.com/user-attachments/assets/eda24d75-184d-4611-8c5e-58a2cea0f8e6)
+![{FCB26554-07B4-4F01-95DF-93C8D991E776}](https://github.com/user-attachments/assets/8b459818-1e43-4c23-9c92-40bd45cab0d7)
 
 3° - Selecionar a posição de destino, (c4)
 
-![{9DFB13D0-F72F-4DAD-8953-8077B19658BC}](https://github.com/user-attachments/assets/139cfabc-8fae-4dbe-ae37-6a676b419815)
+![{A68C5073-A909-46FB-A120-BD56E67B4778}](https://github.com/user-attachments/assets/17ea3bdb-7559-46de-bbbc-dc3738da8912)
 
 4° - Movimento realizado!
 
-![{58BFA62A-5127-46B8-83FE-21BD48129155}](https://github.com/user-attachments/assets/25af04af-459f-4178-a37f-d88e8c61685b)
+![{C9BDC75F-37B7-47BF-AAA0-0B1FC88A96C3}](https://github.com/user-attachments/assets/c2174aae-3e9f-43ee-8ba4-3384e701b856)
+
 
 
 
