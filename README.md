@@ -20,6 +20,7 @@ Exemplo: c2 (Origem) -> c4 (Destino)
 ![{BD4B9731-171E-4808-B58F-228E6F1F66A2}](https://github.com/user-attachments/assets/eda24d75-184d-4611-8c5e-58a2cea0f8e6)
 
 3° - Selecionar a posição de destino, (c4)
+
 ![{9DFB13D0-F72F-4DAD-8953-8077B19658BC}](https://github.com/user-attachments/assets/139cfabc-8fae-4dbe-ae37-6a676b419815)
 
 4° - Movimento realizado!
